@@ -28,6 +28,6 @@ def quicksort(arr):
     right = [x for x in arr if x > pivot]
     return quicksort(left) + middle + quicksort(right)
 
-# egon deleted this line
-# need to restore
-print(quicksort([3,6,8,10,1,2,1]))
+
+def by_michael(x):
+    pass
