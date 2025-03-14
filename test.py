@@ -4,6 +4,7 @@ def sum_by_raphael(a, b):
 
 # Egon hat es vielleicht doch geschafft..
 c = input(int("Geben Sie einen Wert für C ein:"))
+# so ein Nonsense
 
 ## lets implement something stupid
 
