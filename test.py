@@ -18,3 +18,6 @@ def fibonacci(n):
     
 
 print ("Guten Morgen!")
+
+
+# neuer branch (branch_michael)
