@@ -18,3 +18,6 @@ def fibonacci(n):
     
 
 print ("Guten Morgen!")
+
+def some_function():
+    print('some_function() called')
